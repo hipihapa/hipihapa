@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Frank Asumadu</h1>
-<h3 align="center">Flutter • React • Backend • Shipping real-world products</h3>
+<h3 align="center">Flutter • Frontend • Backend • Shipping real-world products</h3>
 
 ---
 
