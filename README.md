@@ -48,8 +48,8 @@
 ### 🌐 Connect with me
 
 <p>
-  <a href="https://twitter.com/YOUR_HANDLE">Twitter</a> •
-  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a>
+  <a href="https://x.com/jnr_06">Twitter</a> •
+  <a href="www.linkedin.com/in/frank-asumadu-43180a1a6">LinkedIn</a>
 </p>
 
 ---
