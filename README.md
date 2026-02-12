@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Flutter+Engineer;Frontend+Engineer;Backend+Engineer;I+Turn+Ideas+Into+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Mobile+Engineer;Frontend+Engineer;Backend+Engineer;I+Turn+Ideas+Into+Products" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Frank Asumadu</h1>
-<h3 align="center">Flutter • Frontend • Backend • Shipping real-world products</h3>
+<h3 align="center">Mobile • Frontend • Backend • Shipping real-world products</h3>
 
 ---
 
