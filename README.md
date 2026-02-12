@@ -9,7 +9,7 @@
 
 ### 👨🏾‍💻 About Me
 
-- 🚀 I build scalable, user-friendly products with Flutter, React, and Node.js  
+- 🚀 I build scalable, user-friendly products with Flutter, React, Node.js, and Supabase  
 - 🛠 I care about clean architecture, performance, and smooth UX  
 - 💡 Passionate about turning complex problems into simple solutions  
 - 🌍 I build for a global audience, focusing on real impact
@@ -19,11 +19,11 @@
 ### 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,react,ts,nodejs,express,mongodb,postgres,firebase,tailwind,nextjs" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,ts,nodejs,express,mongodb,postgres,firebase,tailwind,nextjs,supabase" />
 </p>
 
 **Frontend:** Flutter, React, Tailwind, Next.js  
-**Backend:** Node.js, Express, MongoDB, PostgreSQL, Firebase  
+**Backend:** Node.js, Express, MongoDB, PostgreSQL, Firebase, Supabase  
 
 ---
 
