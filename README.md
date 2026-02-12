@@ -39,9 +39,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hipihapa&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hipihapa&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hipihapa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=hipihapa&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
