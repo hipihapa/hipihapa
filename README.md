@@ -22,29 +22,61 @@
   <img src="https://skillicons.dev/icons?i=flutter,react,ts,nodejs,express,mongodb,postgres,firebase,tailwind,nextjs" />
 </p>
 
-- **Frontend:** Flutter, React, Tailwind, Next.js  
-- **Backend:** Node.js, Express, MongoDB, PostgreSQL, Firebase  
+**Frontend:** Flutter, React, Tailwind, Next.js  
+**Backend:** Node.js, Express, MongoDB, PostgreSQL, Firebase  
 
 ---
 
-### 📌 Featured Projects
+### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Void Network](#) | Modern game listing platform | React, Tailwind, Service Worker |
-| [3d-avatar-gen](#) | 3D avatar generator | Dart, Flutter |
-| [above-life](#) | Personal project | Dart, Flutter |
-| [activity-tracker](#) | Track activities and progress | PHP |
-| [Applock-App](#) | App locker | Dart, Flutter |
-| [gazequest](#) | Eye-tracking project | React, TypeScript |
-| [hedgie-nft](#) | NFT project | Dart, Flutter |
+<table>
+<tr>
+<td width="50%">
+
+#### 🎮 [Void Network](#)
+Modern game listing platform with offline-first architecture
+- **Stack:** React, Tailwind, Service Workers
+- **Features:** PWA support, responsive design
+
+</td>
+<td width="50%">
+
+#### 👤 [3D Avatar Gen](#)
+Interactive 3D avatar generator with customization
+- **Stack:** Flutter, Dart
+- **Features:** Real-time rendering, export options
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 👁️ [GazeQuest](#)
+Eye-tracking application for accessibility
+- **Stack:** React, TypeScript
+- **Features:** ML-powered tracking
+
+</td>
+<td width="50%">
+
+#### 🔒 [Applock App](#)
+Privacy-focused application locker
+- **Stack:** Flutter, Dart
+- **Features:** Biometric authentication
+
+</td>
+</tr>
+</table>
+
+[View all projects →](https://github.com/hipihapa?tab=repositories)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hipihapa&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=hipihapa&theme=tokyo-night&hide_border=true&area=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=hipihapa&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -53,10 +85,12 @@
 ### 🌐 Connect with me
 
 <p>
-  <a href="https://x.com/jnr_06">Twitter</a> •
-  <a href="https://www.linkedin.com/in/frank-asumadu-43180a1a6">LinkedIn</a>
+  <a href="https://x.com/jnr_06"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/frank-asumadu-43180a1a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=hipihapa&label=Profile%20views&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hipihapa&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
