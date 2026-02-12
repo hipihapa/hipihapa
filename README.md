@@ -9,11 +9,10 @@
 
 ### 👨🏾‍💻 About Me
 
-- 🚀 I build scalable products with Flutter, React, and Node.js
-- 🛠 Passionate about clean architecture, performance, and great UX
-- 💡 I enjoy turning complex ideas into simple, usable tools
-- 🌍 Building for a global audience
-- ⚡ Focused on impact, not just code
+- 🚀 I build scalable, user-friendly products with Flutter, React, and Node.js  
+- 🛠 I care about clean architecture, performance, and smooth UX  
+- 💡 Passionate about turning complex problems into simple solutions  
+- 🌍 I build for a global audience, focusing on real impact
 
 ---
 
@@ -23,16 +22,22 @@
   <img src="https://skillicons.dev/icons?i=flutter,react,ts,nodejs,express,mongodb,postgres,firebase,tailwind,nextjs" />
 </p>
 
+- **Frontend:** Flutter, React, Tailwind, Next.js  
+- **Backend:** Node.js, Express, MongoDB, PostgreSQL, Firebase  
+
 ---
 
 ### 📌 Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| Void Network | Modern game listing platform | React, Tailwind, Service Worker |
-| Team Engagement Platform | Slack polls, mood tracking, analytics | React, Slack API, PostgreSQL |
-| Forex Tracker | Track EUR/USD movements | React, Node.js |
-| Ghana Card Scanner | Auto-fill form from card scan | Flutter |
+| [Void Network](#) | Modern game listing platform | React, Tailwind, Service Worker |
+| [3d-avatar-gen](#) | 3D avatar generator | Dart, Flutter |
+| [above-life](#) | Personal project | Dart, Flutter |
+| [activity-tracker](#) | Track activities and progress | PHP |
+| [Applock-App](#) | App locker | Dart, Flutter |
+| [gazequest](#) | Eye-tracking project | React, TypeScript |
+| [hedgie-nft](#) | NFT project | Dart, Flutter |
 
 ---
 
@@ -43,14 +48,13 @@
   <img height="170" src="https://streak-stats.demolab.com?user=hipihapa&theme=tokyonight&hide_border=true" />
 </p>
 
-
 ---
 
 ### 🌐 Connect with me
 
 <p>
   <a href="https://x.com/jnr_06">Twitter</a> •
-  <a href="www.linkedin.com/in/frank-asumadu-43180a1a6">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/frank-asumadu-43180a1a6">LinkedIn</a>
 </p>
 
 ---
